@@ -1,0 +1,869 @@
+{
+  "cfb-florida": [
+    "#0021A5",
+    "#FA4616"
+  ],
+  "cfb-georgia": [
+    "#FFFFFF",
+    "#BA0C2F",
+    "#000000"
+  ],
+  "cfb-missouri": [
+    "#000000",
+    "#F1B82D"
+  ],
+  "cfb-south-carolina": [
+    "#000000",
+    "#73000A"
+  ],
+  "cfb-vanderbilt": [
+    "#866D4B",
+    "#000000"
+  ],
+  "cfb-maryland": [
+    "#E21833",
+    "#000000",
+    "#FFD200",
+    "#FFFFFF"
+  ],
+  "cfb-michigan": [
+    "#FFCB05",
+    "#00274C"
+  ],
+  "cfb-rutgers": [
+    "#CC0033",
+    "#000000",
+    "#5F6A72"
+  ],
+  "cfb-usc": [
+    "#FFCC00",
+    "#990000"
+  ],
+  "cfb-nc-state": [
+    "#CC0000",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "cfb-smu": [
+    "#C8102E",
+    "#0033A0"
+  ],
+  "cfb-stanford": [
+    "#8C1515",
+    "#FFFFFF",
+    "#4D4F53",
+    "#2E2D29"
+  ],
+  "cfb-wake-forest": [
+    "#000000",
+    "#9E7E38"
+  ],
+  "cfb-arizona": [
+    "#003366",
+    "#CC0033"
+  ],
+  "cfb-arizona-state": [
+    "#FFC627",
+    "#8C1D40"
+  ],
+  "cfb-byu": [
+    "#FFFFFF",
+    "#0047BA",
+    "#002E5D"
+  ],
+  "cfb-cincinnati": [
+    "#000000",
+    "#E00122",
+    "#FFFFFF"
+  ],
+  "cfb-colorado": [
+    "#000000",
+    "#CFB87C",
+    "#A2A4A3"
+  ],
+  "cfb-houston": [
+    "#C8102E",
+    "#B2B4B2",
+    "#76232F"
+  ],
+  "cfb-iowa-state": [
+    "#F1BE48",
+    "#C8102E"
+  ],
+  "cfb-kansas": [
+    "#0051BA",
+    "#FFC82D",
+    "#E8000D",
+    "#85898A"
+  ],
+  "cfb-texas-tech": [
+    "#000000",
+    "#CC0000"
+  ],
+  "cfb-ucf": [
+    "#000000",
+    "#BA9B37",
+    "#FFC904"
+  ],
+  "cfb-fau": [
+    "#003366",
+    "#CCCCCC",
+    "#8A8D8F",
+    "#CC0000"
+  ],
+  "cfb-navy": [
+    "#C5B783",
+    "#00205B"
+  ],
+  "cfb-temple": [
+    "#9D2235",
+    "#8A8D8F",
+    "#FFCD00",
+    "#000000"
+  ],
+  "cfb-tulane": [
+    "#006747",
+    "#418FDE",
+    "#43B02A"
+  ],
+  "cfb-utsa": [
+    "#0C2340",
+    "#F15A22"
+  ],
+  "cfb-bowling-green": [
+    "#4F2C1D",
+    "#FE5000",
+    "#CDA077"
+  ],
+  "cfb-northern-illinois": [
+    "#8A8D8F",
+    "#BA0C2F"
+  ],
+  "cfb-toledo": [
+    "#FFDA00",
+    "#15397F",
+    "#005CB9",
+    "#A0ACAA"
+  ],
+  "cfb-fresno-state": [
+    "#002E6D",
+    "#DB0032"
+  ],
+  "cfb-new-mexico": [
+    "#000000",
+    "#A7A8AA",
+    "#BA0C2F",
+    "#63666A",
+    "#007A86"
+  ],
+  "cfb-san-diego-state": [
+    "#000000",
+    "#A6192E"
+  ],
+  "cfb-wyoming": [
+    "#492F24",
+    "#FFC425"
+  ],
+  "cfb-appalachian-state": [
+    "#000000",
+    "#FFCC00"
+  ],
+  "cfb-arkansas-state": [
+    "#000000",
+    "#CC092F"
+  ],
+  "cfb-coastal-carolina": [
+    "#111111",
+    "#006F71",
+    "#A27752"
+  ],
+  "cfb-james-madison": [
+    "#CBB677",
+    "#450084"
+  ],
+  "cfb-louisiana": [
+    "#0A0203",
+    "#CE181E",
+    "#C1C5C9"
+  ],
+  "cfb-marshall": [
+    "#27251F",
+    "#00B140",
+    "#A2AAAD",
+    "#AD7C59",
+    "#693F23"
+  ],
+  "cfb-troy": [
+    "#FFFFFF",
+    "#B3B5B8",
+    "#8A2432"
+  ],
+  "cfb-jacksonville-state": [
+    "#CC0000",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "cfb-kennesaw-state": [
+    "#0B1315",
+    "#FDBB30",
+    "#C5C6C8"
+  ],
+  "cfb-middle-tennessee": [
+    "#007BC3",
+    "#A6A8AA",
+    "#343636",
+    "#004776"
+  ],
+  "cfb-utep": [
+    "#041E42",
+    "#B1B3B3",
+    "#FF8200"
+  ],
+  "ncaab-kansas": [
+    "#0051BA",
+    "#FFC82D",
+    "#E8000D",
+    "#85898A"
+  ],
+  "ncaab-arizona": [
+    "#003366",
+    "#CC0033"
+  ],
+  "ncaab-michigan": [
+    "#FFCB05",
+    "#00274C"
+  ],
+  "ncaab-florida": [
+    "#0021A5",
+    "#FA4616"
+  ],
+  "ncaab-maryland": [
+    "#E21833",
+    "#000000",
+    "#FFD200",
+    "#FFFFFF"
+  ],
+  "ncaab-houston": [
+    "#C8102E",
+    "#B2B4B2",
+    "#76232F"
+  ],
+  "wnba-dream": [
+    "#FFFFFF",
+    "#E31837",
+    "#418FDE",
+    "#000000"
+  ],
+  "wnba-wings": [
+    "#1D42BA",
+    "#9EA2A2",
+    "#C8102E"
+  ],
+  "wnba-valkyries": [
+    "#000000",
+    "#5A2D81",
+    "#FFFFFF"
+  ],
+  "wnba-fever": [
+    "#002D62",
+    "#E03A3E",
+    "#FDBB30"
+  ],
+  "wnba-aces": [
+    "#000000",
+    "#BA0C2F",
+    "#A7A8AA"
+  ],
+  "wnba-lynx": [
+    "#9EA2A2",
+    "#236192",
+    "#78BE20",
+    "#000000"
+  ],
+  "wnba-liberty": [
+    "#000000",
+    "#86CEBC",
+    "#6ECEB2"
+  ],
+  "wnba-mercury": [
+    "#E56020",
+    "#201747",
+    "#63666A"
+  ],
+  "wnba-storm": [
+    "#2C5234",
+    "#FEC325",
+    "#FE5000"
+  ],
+  "wnba-mystics": [
+    "#002B5C",
+    "#C4CED4",
+    "#E03A3E"
+  ],
+  "wnba-tempo": [
+    "#6E1F2E",
+    "#A8C7E6",
+    "#000000"
+  ],
+  "wnba-fire": [
+    "#5B3A29",
+    "#E03C31",
+    "#F4A6B8",
+    "#1B3A6B"
+  ],
+  "nfl-falcons": [
+    "#000000",
+    "#A5ACAF",
+    "#A71930"
+  ],
+  "nfl-ravens": [
+    "#000000",
+    "#9E7C0C",
+    "#241773"
+  ],
+  "nfl-panthers": [
+    "#101820",
+    "#0085CA",
+    "#BFC0BF"
+  ],
+  "nfl-bears": [
+    "#C83803",
+    "#0B162A"
+  ],
+  "nfl-browns": [
+    "#FF3C00",
+    "#311D00"
+  ],
+  "nfl-cowboys": [
+    "#041E42",
+    "#869397",
+    "#003594"
+  ],
+  "nfl-broncos": [
+    "#002244",
+    "#FB4F14"
+  ],
+  "nfl-jaguars": [
+    "#101820",
+    "#9F792C",
+    "#006778"
+  ],
+  "nfl-chargers": [
+    "#FFC20E",
+    "#0080C6",
+    "#002A5E"
+  ],
+  "nfl-rams": [
+    "#FFA300",
+    "#003594",
+    "#FFFFFF"
+  ],
+  "nfl-vikings": [
+    "#FFC62F",
+    "#4F2683"
+  ],
+  "nfl-jets": [
+    "#125740",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "nfl-eagles": [
+    "#000000",
+    "#A5ACAF",
+    "#004C54"
+  ],
+  "nfl-steelers": [
+    "#101820",
+    "#C60C30",
+    "#FFB612"
+  ],
+  "nfl-seahawks": [
+    "#002244",
+    "#A5ACAF",
+    "#69BE28"
+  ],
+  "nfl-buccaneers": [
+    "#34302B",
+    "#D50A0A",
+    "#FF7900"
+  ],
+  "nfl-titans": [
+    "#4B92DB",
+    "#C8102E",
+    "#0C2340"
+  ],
+  "nba-celtics": [
+    "#007A33",
+    "#000000",
+    "#BA9653"
+  ],
+  "nba-nets": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "nba-hornets": [
+    "#1D1160",
+    "#A1A1A4",
+    "#00788C"
+  ],
+  "nba-bulls": [
+    "#000000",
+    "#CE1141"
+  ],
+  "nba-mavericks": [
+    "#B8C4CA",
+    "#00538C",
+    "#002B5E"
+  ],
+  "nba-pacers": [
+    "#FDBB30",
+    "#002D62"
+  ],
+  "nba-clippers": [
+    "#C8102E",
+    "#BEC0C2",
+    "#1D428A"
+  ],
+  "nba-lakers": [
+    "#FDB927",
+    "#552583"
+  ],
+  "nba-grizzlies": [
+    "#12173F",
+    "#5D76A9",
+    "#F5B112"
+  ],
+  "nba-heat": [
+    "#000000",
+    "#98002E",
+    "#F9A01B"
+  ],
+  "nba-bucks": [
+    "#EEE1C6",
+    "#00471B",
+    "#0077C0"
+  ],
+  "nba-timberwolves": [
+    "#236192",
+    "#9EA2A2",
+    "#0C2340"
+  ],
+  "nba-pelicans": [
+    "#0C2340",
+    "#85714D",
+    "#C8102E"
+  ],
+  "nba-knicks": [
+    "#F58426",
+    "#BEC0C2",
+    "#006BB6"
+  ],
+  "nba-thunder": [
+    "#002D62",
+    "#EF3B24",
+    "#007AC1"
+  ],
+  "nba-magic": [
+    "#000000",
+    "#0077C0",
+    "#C4CED4"
+  ],
+  "nba-76ers": [
+    "#ED174C",
+    "#006BB6",
+    "#002B5C"
+  ],
+  "nba-suns": [
+    "#000000",
+    "#E56020",
+    "#1D1160"
+  ],
+  "nba-blazers": [
+    "#000000",
+    "#E03A3E"
+  ],
+  "nba-raptors": [
+    "#000000",
+    "#CE1141",
+    "#A1A1A4"
+  ],
+  "mlb-redsox": [
+    "#0C2340",
+    "#BD3039"
+  ],
+  "mlb-guardians": [
+    "#0C2340",
+    "#E31937"
+  ],
+  "mlb-rockies": [
+    "#131413",
+    "#333366",
+    "#C4CED4"
+  ],
+  "mlb-marlins": [
+    "#000000",
+    "#00A3E0",
+    "#EF3340"
+  ],
+  "mlb-twins": [
+    "#D31145",
+    "#002B5C"
+  ],
+  "mlb-phillies": [
+    "#002D72",
+    "#E81828"
+  ],
+  "mlb-pirates": [
+    "#FDB827",
+    "#27251F"
+  ],
+  "mlb-giants": [
+    "#27251F",
+    "#FD5A1E",
+    "#AE8F6F"
+  ],
+  "mlb-mariners": [
+    "#0C2C56",
+    "#C4CED4",
+    "#005C5C"
+  ],
+  "mlb-bluejays": [
+    "#1D2D5C",
+    "#134A8E",
+    "#E8291C"
+  ],
+  "mlb-nationals": [
+    "#14225A",
+    "#AB0003"
+  ],
+  "nhl-ducks": [
+    "#000000",
+    "#B9975B",
+    "#F47A38"
+  ],
+  "nhl-bruins": [
+    "#000000",
+    "#FFB81C"
+  ],
+  "nhl-blackhawks": [
+    "#000000",
+    "#CF0A2C"
+  ],
+  "nhl-avalanche": [
+    "#236192",
+    "#6F263D",
+    "#A2AAAD"
+  ],
+  "nhl-bluejackets": [
+    "#002654",
+    "#A4A9AD",
+    "#CE1126"
+  ],
+  "nhl-stars": [
+    "#000000",
+    "#006847",
+    "#8F8F8C"
+  ],
+  "nhl-oilers": [
+    "#041E42",
+    "#FF4C00"
+  ],
+  "nhl-panthers": [
+    "#041E42",
+    "#B9975B",
+    "#C8102E"
+  ],
+  "nhl-predators": [
+    "#041E42",
+    "#FFB81C"
+  ],
+  "nhl-islanders": [
+    "#00539B",
+    "#F47D30"
+  ],
+  "nhl-senators": [
+    "#000000",
+    "#C8102E",
+    "#C2912C"
+  ],
+  "nhl-flyers": [
+    "#000000",
+    "#F74902"
+  ],
+  "nhl-penguins": [
+    "#000000",
+    "#FCB514",
+    "#CFC493"
+  ],
+  "nhl-blues": [
+    "#FCB514",
+    "#002F87",
+    "#041E42"
+  ],
+  "nhl-lightning": [
+    "#FFFFFF",
+    "#002868"
+  ],
+  "nhl-mammoth": [
+    "#71AFE5",
+    "#000000",
+    "#00205B"
+  ],
+  "nhl-canucks": [
+    "#00205B",
+    "#97999B",
+    "#008852"
+  ],
+  "nhl-capitals": [
+    "#041E42",
+    "#FFFFFF",
+    "#C8102E"
+  ],
+  "nhl-jets": [
+    "#041E42",
+    "#A2AAAD",
+    "#C8102E"
+  ],
+  "pl-bournemouth": [
+    "#000000",
+    "#DA291C"
+  ],
+  "pl-brighton": [
+    "#FFFFFF",
+    "#0057B8"
+  ],
+  "pl-leeds": [
+    "#FFCD00",
+    "#1D428A",
+    "#FFFFFF"
+  ],
+  "pl-mancity": [
+    "#1C2C5B",
+    "#6CABDD",
+    "#FFC659"
+  ],
+  "pl-sunderland": [
+    "#FFFFFF",
+    "#EB172B",
+    "#000000"
+  ],
+  "pl-wolves": [
+    "#231F20",
+    "#FDB913"
+  ],
+  "laliga-athletic": [
+    "#FFFFFF",
+    "#EE2523"
+  ],
+  "laliga-atletico": [
+    "#262E62",
+    "#FFFFFF",
+    "#CB3524"
+  ],
+  "laliga-barcelona": [
+    "#EDBB00",
+    "#A50044",
+    "#004D98"
+  ],
+  "laliga-espanyol": [
+    "#FFFFFF",
+    "#004B9D"
+  ],
+  "laliga-laspalmas": [
+    "#004B9D",
+    "#FFE500"
+  ],
+  "laliga-leganes": [
+    "#FFFFFF",
+    "#004D98"
+  ],
+  "laliga-levante": [
+    "#003580",
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "laliga-rayo": [
+    "#FFFFFF",
+    "#E32219"
+  ],
+  "laliga-betis": [
+    "#FFFFFF",
+    "#00954C"
+  ],
+  "laliga-madrid": [
+    "#FEBE10",
+    "#00529F",
+    "#FFFFFF"
+  ],
+  "laliga-oviedo": [
+    "#FFFFFF",
+    "#003DA5"
+  ],
+  "laliga-sevilla": [
+    "#FFFFFF",
+    "#D00027"
+  ],
+  "laliga-villarreal": [
+    "#005CB9",
+    "#FFE500"
+  ],
+  "seriea-atalanta": [
+    "#000000",
+    "#1B65B3"
+  ],
+  "seriea-bologna": [
+    "#001A45",
+    "#911B2C"
+  ],
+  "seriea-cremonese": [
+    "#FFFFFF",
+    "#808080",
+    "#A41C2F"
+  ],
+  "seriea-fiorentina": [
+    "#FFFFFF",
+    "#432C7B"
+  ],
+  "seriea-verona": [
+    "#002F6C",
+    "#FFC72C"
+  ],
+  "seriea-inter": [
+    "#000000",
+    "#1F2D58"
+  ],
+  "seriea-lazio": [
+    "#FFFFFF",
+    "#87D8F7"
+  ],
+  "seriea-milan": [
+    "#000000",
+    "#FB090B"
+  ],
+  "seriea-parma": [
+    "#003DA5",
+    "#FFE500"
+  ],
+  "seriea-pisa": [
+    "#1F2D58",
+    "#000000"
+  ],
+  "seriea-sassuolo": [
+    "#000000",
+    "#009638"
+  ],
+  "seriea-udinese": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "bun-augsburg": [
+    "#FFFFFF",
+    "#BA3733",
+    "#007A33"
+  ],
+  "bun-leverkusen": [
+    "#000000",
+    "#E32221"
+  ],
+  "bun-bayern": [
+    "#FFFFFF",
+    "#DC052D",
+    "#0066B2"
+  ],
+  "bun-gladbach": [
+    "#000000",
+    "#FFFFFF",
+    "#00B04F"
+  ],
+  "bun-freiburg": [
+    "#000000",
+    "#FFFFFF",
+    "#CC0000"
+  ],
+  "bun-hamburg": [
+    "#003DA5",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "bun-heidenheim": [
+    "#003DA5",
+    "#D40026",
+    "#FFFFFF"
+  ],
+  "bun-mainz": [
+    "#FFFFFF",
+    "#C8102E"
+  ],
+  "bun-leipzig": [
+    "#FFFFFF",
+    "#DD0741",
+    "#FFCD00"
+  ],
+  "bun-stpauli": [
+    "#FFFFFF",
+    "#D71920",
+    "#5A341C"
+  ],
+  "bun-stuttgart": [
+    "#FFFFFF",
+    "#E32219"
+  ],
+  "bun-union": [
+    "#EB1923",
+    "#FFFFFF",
+    "#FFD200"
+  ],
+  "bun-wolfsburg": [
+    "#FFFFFF",
+    "#65B32E"
+  ],
+  "l1-angers": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "l1-lehavre": [
+    "#001F5B",
+    "#6CACE4"
+  ],
+  "l1-lille": [
+    "#FFFFFF",
+    "#1F4287",
+    "#E20613"
+  ],
+  "l1-lorient": [
+    "#000000",
+    "#F36C21"
+  ],
+  "l1-lyon": [
+    "#FFFFFF",
+    "#003DA5",
+    "#DA291C"
+  ],
+  "l1-marseille": [
+    "#FFFFFF",
+    "#2FAEE0"
+  ],
+  "l1-nice": [
+    "#000000",
+    "#FFFFFF",
+    "#D71920"
+  ],
+  "l1-parisfc": [
+    "#0072CE",
+    "#FFFFFF",
+    "#1A3E72"
+  ],
+  "l1-psg": [
+    "#004170",
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "l1-strasbourg": [
+    "#FFFFFF",
+    "#003D7C"
+  ],
+  "l1-toulouse": [
+    "#FFFFFF",
+    "#5C2D8C"
+  ]
+}

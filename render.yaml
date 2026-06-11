@@ -1,0 +1,27 @@
+# Render Blueprint — deploys the sports-logos app as a single web service.
+# One process serves the API and the built React client on the port
+# Render injects via the PORT env var.
+#
+# Steps in Render after pushing this repo:
+#   1. New → Blueprint
+#   2. Connect this repo
+#   3. Confirm — Render reads this file, creates the service named
+#      "sports-logos", builds, deploys, and exposes
+#      https://sports-logos.onrender.com
+
+services:
+  - type: web
+    name: sports-logos
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: |
+      npm install
+      npm run build --workspace client
+    startCommand: npm run start --workspace server
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 22.11.0
+    autoDeploy: true

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+	<rect x="-3.052e-6" width="600" height="600" fill="#4a777a" fill-rule="evenodd" stroke-dashoffset="1200" stroke-linecap="square" stroke-width="12.5" style="paint-order:markers stroke fill"/>
+	<circle cx="300" cy="300" r="250" fill="#fff" fill-rule="evenodd" stroke-dashoffset="1200" stroke-linecap="square" stroke-width="12.5" style="paint-order:markers stroke fill"/>
+	<g fill="#bd3039" stroke="#fff" stroke-width="5" aria-label="4">
+		<path d="m377.2 343.7v-218.7h-48.8l-155.5 218.7v50.6h155.5v80.8h48.8v-80.8h49.8v-50.6zm-48.8 0h-93.9l93.9-125.3z"/>
+	</g>
+</svg>

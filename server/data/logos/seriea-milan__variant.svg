@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="731.43182"
+   height="1020.155"
+   id="svg3334"
+   version="1.0"
+   inkscape:version="0.46"
+   sodipodi:docname="CoA_Città_di_Milano_2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:version="0.32">
+  <defs
+     id="defs3336">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3342" />
+    <inkscape:perspective
+       id="perspective3326"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56167934"
+     inkscape:cx="365.71591"
+     inkscape:cy="510.07751"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="780"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3339">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.1245174,-0.2762891)">
+    <g
+       id="g8233"
+       transform="matrix(3.87875,0,0,3.87875,-3609.9,-32.7211)">
+      <path
+         id="path4390"
+         d="M 931.73648,9.5251675 L 931.73648,217.18575 C 931.73647,236.27254 945.1608,247.59682 959.47545,247.59682 L 992.81312,247.59682 C 1013.6711,247.59682 1025.0056,257.97737 1025.0056,270.50056 C 1025.0056,257.97737 1036.3401,247.59682 1057.1981,247.59682 L 1090.5357,247.59682 C 1104.8504,247.59682 1118.2747,236.27254 1118.2747,217.18575 C 1118.2357,148.04307 1118.2557,78.783582 1118.2747,9.5251675 L 1025.0056,9.5251675 L 931.73648,9.5251675 L 931.73648,9.5251675 z"
+         style="fill:none;stroke:#000000;stroke-width:2.0358901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccscccccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccscccccc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 3.5184481,3.0712315 C 3.9491441,271.63062 4.4305351,540.19842 3.5184481,808.53399 C 3.5184091,882.56682 55.587986,926.49083 111.11088,926.49083 L 240.41926,926.49083 C 321.32228,926.49083 365.28595,966.75435 365.28595,1015.3286 C 365.28595,966.75435 409.24921,926.49083 490.15211,926.49083 L 619.46061,926.49083 C 674.9837,926.49083 727.05316,882.56682 727.05316,808.53399 L 727.05316,3.0712315 L 365.28595,3.0712315 L 3.5184481,3.0712315 L 3.5184481,3.0712315 z"
+       id="path12910" />
+    <path
+       id="cross"
+       d="M 261.09557,2.0705712 L 261.09557,346.09583 L 2.5608344,346.09583 L 2.5608344,579.98013 L 261.09557,579.98013 L 261.09557,929.10611 C 272.53048,930.93965 278.08512,931.09503 297.14133,935.10362 C 364.74531,955.80832 366.47947,1016.16 365.52166,1015.2023 C 365.52166,1015.2023 365.53352,957.85328 432.59776,935.10362 L 468.92378,929.10611 L 468.92378,579.98013 L 729.01079,579.98013 L 728.62133,346.15147 L 468.92378,346.09583 L 468.92378,2.0705712 L 261.09557,2.0705712 L 261.09557,2.0705712 z"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccsscccccccc" />
+  </g>
+</svg>
