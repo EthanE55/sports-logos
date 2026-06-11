@@ -15,8 +15,11 @@ services:
     runtime: node
     plan: free
     region: oregon
+    # `--include=dev` is critical — Render sets NODE_ENV=production
+    # before `npm install`, which makes npm skip devDependencies by
+    # default. We need @types/react and friends to build the client.
     buildCommand: |
-      npm install
+      npm install --include=dev
       npm run build --workspace client
     startCommand: npm run start --workspace server
     envVars:
