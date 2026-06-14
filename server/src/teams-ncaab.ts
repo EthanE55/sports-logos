@@ -31,4 +31,18 @@ export const NCAAB_TEAMS: SeedTeam[] = [
   { id: 'ncaab-georgetown',     sport: 'college-basketball', league: 'NCAA Basketball', name: 'Georgetown Hoyas',           wikipediaTitle: "Georgetown Hoyas men's basketball",           colors: ['#041E42', '#63666A'] },
   { id: 'ncaab-houston',        sport: 'college-basketball', league: 'NCAA Basketball', name: 'Houston Cougars',            wikipediaTitle: "Houston Cougars men's basketball",            colors: ['#C8102E', '#76232F', '#B2B4B2'] },
   { id: 'ncaab-purdue',         sport: 'college-basketball', league: 'NCAA Basketball', name: 'Purdue Boilermakers',        wikipediaTitle: "Purdue Boilermakers men's basketball",        colors: ['#CFB991', '#000000'] },
+
+  // Stanford + the 8 Ivy League schools (men's basketball only — Ivies
+  // play FCS football, not FBS, so they're not in teams-cfb.ts).
+  // Brand colours verified against each school's identity / brand portal
+  // where available, else teamcolorcodes.com.
+  { id: 'ncaab-stanford',       sport: 'college-basketball', league: 'NCAA Basketball', name: 'Stanford Cardinal',          wikipediaTitle: "Stanford Cardinal men's basketball",          colors: ['#8C1515', '#2E2D29', '#53565A', '#FFFFFF'] },
+  { id: 'ncaab-brown',          sport: 'college-basketball', league: 'NCAA Basketball', name: 'Brown Bears',                wikipediaTitle: "Brown Bears men's basketball",                colors: ['#4E3629', '#ED1C24', '#FFC72C'] },
+  { id: 'ncaab-columbia',       sport: 'college-basketball', league: 'NCAA Basketball', name: 'Columbia Lions',             wikipediaTitle: "Columbia Lions men's basketball",             colors: ['#9BCBEB', '#003865', '#FFFFFF'] },
+  { id: 'ncaab-cornell',        sport: 'college-basketball', league: 'NCAA Basketball', name: 'Cornell Big Red',            wikipediaTitle: "Cornell Big Red men's basketball",            colors: ['#B31B1B', '#222222', '#FFFFFF'] },
+  { id: 'ncaab-dartmouth',      sport: 'college-basketball', league: 'NCAA Basketball', name: 'Dartmouth Big Green',        wikipediaTitle: "Dartmouth Big Green men's basketball",        colors: ['#00693E', '#12312B', '#FFFFFF'] },
+  { id: 'ncaab-harvard',        sport: 'college-basketball', league: 'NCAA Basketball', name: 'Harvard Crimson',            wikipediaTitle: "Harvard Crimson men's basketball",            colors: ['#A51C30', '#1E1E1E', '#FFFFFF'] },
+  { id: 'ncaab-penn',           sport: 'college-basketball', league: 'NCAA Basketball', name: 'Penn Quakers',               wikipediaTitle: "Penn Quakers men's basketball",               colors: ['#990000', '#011F5B', '#FFFFFF'] },
+  { id: 'ncaab-princeton',      sport: 'college-basketball', league: 'NCAA Basketball', name: 'Princeton Tigers',           wikipediaTitle: "Princeton Tigers men's basketball",           colors: ['#E77500', '#000000', '#FFFFFF'] },
+  { id: 'ncaab-yale',           sport: 'college-basketball', league: 'NCAA Basketball', name: 'Yale Bulldogs',              wikipediaTitle: "Yale Bulldogs men's basketball",              colors: ['#00356B', '#FFFFFF'] },
 ];
